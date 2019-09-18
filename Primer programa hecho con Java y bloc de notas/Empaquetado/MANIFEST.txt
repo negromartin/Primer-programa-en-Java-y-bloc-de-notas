@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: The BlackPeople
+Main-Class: Bienvenida
+X-COMMENT: Es la practica de un curso de la Gekkipedia de Ernesto
